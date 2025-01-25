@@ -1,4 +1,8 @@
 streamlit
-pymonogo
-objectid
+pymongo
 pandas
+hashlib
+datetime
+pathlib
+doctors_data
+objectid
